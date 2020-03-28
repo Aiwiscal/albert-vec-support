@@ -41,7 +41,7 @@ valid_length = dict_ret["validLength"]
 vector = dict_ret["vector"]
 
 # 输出结果
-print("-----------")
+print("----------- ")
 print("原始输入文本：" + raw_text)
 print("原始输入长度：" + str(raw_valid_length))
 print("实际处理文本：" + text)
